@@ -4,7 +4,7 @@
 
 - 作者: GMCY
 - 系列: 复刻系列
-- 话题(GitHub): [java](https://github.com/topics/java) \ [reprint](https://github.com/topics/reprint) \ [mihoyo](https://github.com/topics/mihoyo) \ [genshin](https://github.com/topics/genshin)
+- 话题(GitHub): [java](https://github.com/topics/java) \ [swing](https://github.com/topics/swing) \ [reprint](https://github.com/topics/reprint) \ [mihoyo](https://github.com/topics/mihoyo) \ [genshin](https://github.com/topics/genshin)  \ [genshin-impact](https://github.com/topics/genshin-impact)
 - 创建时间: 2022/10/31
 
 ## 2. 介绍
