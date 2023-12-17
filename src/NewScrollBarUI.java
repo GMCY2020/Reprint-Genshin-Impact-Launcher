@@ -52,8 +52,6 @@ public class NewScrollBarUI extends BasicScrollBarUI {
 
     @Override
     public Dimension getPreferredSize(JComponent c) {
-
-        // TODO Auto-generated method stub
         if (this.scrollbar.getOrientation() == JScrollBar.VERTICAL) {
             c.setPreferredSize(new Dimension(6, 0));
         }
