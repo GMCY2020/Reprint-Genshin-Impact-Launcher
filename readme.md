@@ -4,6 +4,7 @@
 
 - 作者: GMCY
 - 系列: 复刻系列
+- 仓库: [GitHub](https://github.com/GMCY2020/Reprint-Genshin-Impact-Launcher) | [Gitee](https://gitee.com/GMCY2020/Reprint-Genshin-Impact-Launcher)
 - 话题(GitHub): [java](https://github.com/topics/java) \ [swing](https://github.com/topics/swing) \ [reprint](https://github.com/topics/reprint) \ [mihoyo](https://github.com/topics/mihoyo) \ [genshin](https://github.com/topics/genshin)  \ [genshin-impact](https://github.com/topics/genshin-impact)
 - 创建时间: 2022/10/31
 
